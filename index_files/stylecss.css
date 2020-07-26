@@ -1,0 +1,60 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 20px 0px 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #ffffff
+}
+P {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-SIZE: 80%; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.pos P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 10px; FONT-SIZE: 80%; MARGIN-LEFT: 10px; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H1 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 18px; PADDING-BOTTOM: 10px; COLOR: #000000; PADDING-TOP: 0px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+H2 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 15px; PADDING-BOTTOM: 0px; COLOR: #996600; PADDING-TOP: 10px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #555555; PADDING-TOP: 0px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.title {
+	FONT-SIZE: 18px; MARGIN: 5px 10px 0px; COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+A:link {
+	COLOR: #3366cc; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #3366cc; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #cc6666; TEXT-DECORATION: underline
+}
+.bodybg {
+	BORDER-RIGHT: #bbbbbb 1px solid; BORDER-LEFT: #bbbbbb 1px solid
+}
+.nav {
+	FONT-SIZE: 13px; BACKGROUND-IMAGE: url(images/menu.jpg); PADDING-BOTTOM: 10px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 10px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; HEIGHT: 40px; TEXT-ALIGN: center
+}
+.nav A {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; MARGIN: 0px; COLOR: #f5f5f5; TEXT-DECORATION: none
+}
+.nav A:link {
+	FONT-WEIGHT: bold; COLOR: #f5f5f5; TEXT-DECORATION: none
+}
+.nav A:visited {
+	FONT-WEIGHT: bold; COLOR: #f5f5f5; TEXT-DECORATION: none
+}
+.nav A:hover {
+	FONT-WEIGHT: bold; COLOR: #cc6666
+}
+P.top {
+	BORDER-RIGHT: #cccccc 1px outset; PADDING-RIGHT: 10px; BACKGROUND-POSITION: 5px 50%; BORDER-TOP: #cccccc 1px outset; DISPLAY: block; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(images/arrowup.gif); MARGIN-LEFT: 720px; BORDER-LEFT: #cccccc 1px outset; WIDTH: 80px; BORDER-BOTTOM: #cccccc 1px outset; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-ALIGN: right
+}
+.subnav {
+	PADDING-LEFT: 25px; FONT-SIZE: 13px; PADDING-TOP: 5px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+P.footnote {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 0px; FONT: 11px/1.2em Arial, Verdana, Helvetica, sans-serif; PADDING-TOP: 10px
+}
